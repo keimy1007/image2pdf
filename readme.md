@@ -1,2 +1,8 @@
 # terminal
-streamlit run main.py
+streamlit run app.py
+
+# only first trial
+chmod +x run
+
+# run
+./run
