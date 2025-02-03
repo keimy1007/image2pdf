@@ -1,8 +1,13 @@
 # terminal
+```
 streamlit run app.py
+```
 
-# only first trial
+or
+
+```
 chmod +x run
-
-# run
 ./run
+```
+
+!sample.png
