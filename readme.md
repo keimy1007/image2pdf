@@ -10,4 +10,4 @@ chmod +x run
 ./run
 ```
 
-!sample.png
+![sample](sample.png)
